@@ -1,0 +1,10 @@
+body{
+    background-image: url("fondo.jpg");
+}
+h6.color{
+    color: red;
+}
+
+div.posicion{
+    margin-top: 3em;
+}
